@@ -1,5 +1,5 @@
 
-  # Website Development
+  # Lighting Art Nigeria Website Development
 
   This is a code bundle for Website Development. The original project is available at https://www.figma.com/design/rCOeQ5Rd7ntMSbJQdxsc3T/Website-Development.
 
